@@ -8,12 +8,13 @@ This repository contains my report as a pdf file, my python code app.py, images 
 
 ## Introduction
 
-In Germany, the aging population faces increasing challenges with social isolation and everyday tasks. With approximately 18.3 million individuals aged 65 or above, there is a pressing need for innovative solutions to enhance their quality of life (Statistisches Bundesamt, 2021).
 
-GrandHelp is a digital platform designed to connect senior citizens with volunteers who can assist them with daily tasks and provide companionship. Unlike existing solutions, GrandHelp prioritizes immediate availability and proximity, ensuring fast and reliable assistance.
-GrandHelp represents a transformative approach to elderly care, fostering social connections, enhancing well-being, and promoting community engagement. By leveraging technology to support seniors and empower volunteers, we aim to build a more inclusive and supportive society.
 
-Join this app in making a meaningful impact in the lives of senior citizens. Together, a community can be where everyone feels valued and supported.
+In Germany, the aging population faces increasing challenges with social isolation and everyday tasks. With approximately 18.3 million individuals aged 65 or above, there is a pressing need for innovative solutions to enhance their quality of life (Statistisches Bundesamt, 2021). GrandHelp addresses these challenges by leveraging technology to connect senior citizens with compassionate volunteers.
+
+This application serves as a digital platform designed to connect senior citizens with volunteers who can assist them with daily tasks and provide companionship. Unlike existing solutions, GrandHelp prioritizes immediate availability and proximity, ensuring fast and reliable assistance. GrandHelp represents a transformative approach to elderly care, fostering social connections, enhancing well-being, and promoting community engagement. By leveraging technology to support seniors and empower volunteers, the aim to build a more inclusive and supportive society.
+
+This app offers opportunities in making a meaningful impact in the lives of senior citizens. Together, a community can be where everyone feels valued and supported.
 
 
 ## Features
