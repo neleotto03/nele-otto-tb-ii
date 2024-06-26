@@ -3,6 +3,7 @@
 This repository contains Nele Otto's Tech Basics II Exam Project code.
 
 This repository contains my report as a pdf file, my python code app.py, images folder and this README file.
+
 # GrandHelp
 
 ## Introduction
@@ -12,9 +13,8 @@ In Germany, the aging population faces increasing challenges with social isolati
 GrandHelp is a digital platform designed to connect senior citizens with volunteers who can assist them with daily tasks and provide companionship. Unlike existing solutions, GrandHelp prioritizes immediate availability and proximity, ensuring fast and reliable assistance.
 GrandHelp represents a transformative approach to elderly care, fostering social connections, enhancing well-being, and promoting community engagement. By leveraging technology to support seniors and empower volunteers, we aim to build a more inclusive and supportive society.
 
-Join us in making a meaningful impact in the lives of senior citizens. Together, we can create a community where everyone feels valued and supported.
+Join this app in making a meaningful impact in the lives of senior citizens. Together, a community can be where everyone feels valued and supported.
 
----
 
 ## Features
 
@@ -35,8 +35,13 @@ Join us in making a meaningful impact in the lives of senior citizens. Together,
 # Instructions to run my app
 
 Clone my repository in a location of your choice
+
 git clone https://github.com/shaq31415926/sarah-haq-tbii-exam.git
+
 Change the directory: cd sarah-haq-tbii-exam
+
 Run the code
+
 Mac: python3 app.py
+
 Windows: python app.py
