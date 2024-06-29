@@ -37,9 +37,7 @@ This app offers opportunities in making a meaningful impact in the lives of seni
 
 Clone my repository in a location of your choice
 
-git clone https://github.com/shaq31415926/sarah-haq-tbii-exam.git
-
-Change the directory: cd sarah-haq-tbii-exam
+git clone https://github.com/neleotto03/nele-otto-tb-ii
 
 Run the code
 
