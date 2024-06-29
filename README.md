@@ -27,7 +27,7 @@ This app offers opportunities in making a meaningful impact in the lives of seni
 
 ## How GrandHelp works
 
-1. **Registration**: Seniors and volunteers create profiles with essential information.
+1. **Registration**: Seniors and volunteers create profiles with essential information and profile pictures.
 2. **Request Assistance**: Seniors post requests for tasks like companionship or shopping.
 3. **Matching**: An algorithm matches seniors with nearby volunteers based on location proximity.
 4. **Assistance**: Volunteers accept requests, assist seniors, and confirm completion.
