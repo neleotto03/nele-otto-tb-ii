@@ -1,6 +1,6 @@
 # Tech Basic II Exam project
 
-This repository contains Nele Otto's Tech Basics II Exam Project code.
+This is Nele Otto's Tech Basics II Exam Project.
 
 This repository contains my report as a pdf file, my python code app.py, images folder and this README file.
 
